@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ayo ONI
+- Welcome Viewer!👋 
+-  I’m Ayo ONI
+- Computer Programming co-op student @ Algonquin College
 - 👀 I’m interested in Programming💻💻 related activities🆒💻
 - 🌱 I’m currently learning new and evolving technologies💻💻 from Algonquin College🎓 and self-learning
 - 📫 How to reach me - 📠Email: oni00004@algonquinlive.com 
